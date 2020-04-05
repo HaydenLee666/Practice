@@ -1,2 +1,2 @@
 Card component practice with HTML and CSS
-[Sites Using React](https:www.baidu.com)
+[Link](https://github.com/HaydenLee666/Practice/blob/master/Card/Card.html)
